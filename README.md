@@ -43,7 +43,7 @@ npm run dev
 - Custom array input
 - Speed control (0.25× – 4×)
 - Keyboard shortcuts: `→` Next · `←` Prev · `P` Play · `R` Reset
-- Keyboard shortcuts for faster navigation and control
+- Responsive interface for interactive algorithm exploration
 
 ## Deploy to Vercel
 1. Push to GitHub
@@ -51,6 +51,12 @@ npm run dev
 
 ## Stack
 React 18 · TypeScript · Vite · Tailwind CSS · Framer Motion · Zustand
+
+## Setup
+
+```bash
+npm install
+npm run dev
 
 ## License
 MIT
