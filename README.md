@@ -1,5 +1,11 @@
 # DSAViz ⚡
 
+
+> Interactive visualizations that make DSA algorithms easier to understand.
+
+🔗 **Live Demo:** https://sharonmedithi0304.github.io/dsaviz/
+
+
 **See the code. Understand it forever.**
 
 Interactive DSA visualizer — step through algorithms line by line with synchronized animations and plain-English explanations.
