@@ -43,6 +43,7 @@ npm run dev
 - Custom array input
 - Speed control (0.25× – 4×)
 - Keyboard shortcuts: `→` Next · `←` Prev · `P` Play · `R` Reset
+- Keyboard shortcuts for faster navigation and control
 
 ## Deploy to Vercel
 1. Push to GitHub
